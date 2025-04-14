@@ -6,6 +6,9 @@ The proposed pipeline leverages vision-language models to generate demonstration
 
 ![NSAGD](static/images/img1.png)
 
+## News
+- [2025/04/14] This work is accepted at ICLR 2025 Workshop on Generative Models for Robot Learning (GenBot). 📢 Congratulate!
+
 ## Features  
 - **Modular Design**: Each module is independently structured, allowing for standalone training and debugging.  
 
